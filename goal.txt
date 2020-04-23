@@ -1,0 +1,9 @@
+NEXT SECTION: ARTISTS ANALYSIS
+Hereby, we completed our initial analysis about audio features themselves and some other success metrics. In the following section, we will dive into world of artists and achieve a more in-depth analysis on these:
+a) what contributes to the popularity of any artist,
+b) do the success metrics depend on audio features,
+c) how the success rates seem over the course of time,
+d) can the genres or styles of artists be predicted using all metrics,
+e) is it possible to make recommendation for wannabe-popular artists, and lastly,
+f) is it possible to recommend artists to spotify users using assocation techniques
+and in order to achieve all these, we will apply many regression, classification and clustering methods, and even develop associative-based recommendation system 
