@@ -181,7 +181,6 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.841,0.627,2,1,0.0719,0.0567,0.000666,0.108,0.345,0.63,1,0d6X00DQJtLSisNeVf2GhB,Pinky Ring (feat. O.T. Genasis),2020-02-21,"['Ne-Yo', 'O.T. Genasis']",1.0,1,1,3
 0.8059999999999999,0.546,9,1,0.0575,0.3,0.0,0.102,0.8740000000000001,0.91,0,4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),2020-02-14,"['Justin Bieber', 'Quavo']",1.0,6,4,4
 0.6759999999999999,0.506,9,0,0.0958,0.345,0.0,0.11800000000000001,0.4970000000000001,0.84,0,16wAOAZ2OkqoIDN7TpChjR,Yummy,2020-02-14,['Justin Bieber'],1.0,5,4,3
-0.654,0.63,10,1,0.0259,0.153,0.0,0.111,0.43,0.9,0,2wrJq5XKLnmhRXHIAf9xBa,"10,000 Hours (with Justin Bieber)",2019-10-04,"['Dan + Shay', 'Justin Bieber']",1.0,1,6,3
 0.825,0.483,8,0,0.08,0.5379999999999999,1.4800000000000002e-05,0.204,0.892,0.88,0,2ZlCGeK30BLRNSPC832pNZ,Forever (feat. Post Malone & Clever),2020-02-14,"['Justin Bieber', 'Post Malone', 'Clever']",1.0,5,5,4
 0.7979999999999999,0.675,6,1,0.0442,0.0912,0.0,0.0894,0.8420000000000001,0.82,0,0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),2019-07-12,"['Ed Sheeran', 'Justin Bieber']",1.0,2,5,4
 0.609,0.37799999999999995,4,1,0.43799999999999994,0.835,0.0,0.28,0.515,0.82,0,50kpGaPAhYJ3sGmk6vplg0,Love Yourself,2015-11-13,['Justin Bieber'],0.7974683544303798,1,2,4
@@ -388,7 +387,6 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.669,0.574,4,0,0.0286,0.0175,0.00294,0.146,0.273,0.83,1,4jvjzW7Hm0yK4LvvE0Paz9,Falling Down - Bonus Track,2018-11-09,"['Lil Peep', 'XXXTENTACION']",1.0,5,5,3
 0.6990000000000001,0.304,1,1,0.0993,0.779,0.000993,0.13699999999999998,0.271,0.82,1,4UKCKdYiLN6IMA5ZESUTL7,the remedy for a broken heart (why am I so in love),2018-03-16,['XXXTENTACION'],1.0,5,1,3
 0.763,0.726,1,1,0.282,0.259,0.0,0.0976,0.349,0.82,1,7floNISpH8VF4z4459Qo18,Look At Me!,2017-02-20,['XXXTENTACION'],1.0,6,5,2
-0.43,0.7,6,1,0.264,0.0902,0.0,0.21600000000000005,0.731,0.89,1,4HDCLYli2SUdkq9OjmvhSD,BELIEVE IT,2020-03-27,"['PARTYNEXTDOOR', 'Rihanna']",1.0,4,6,3
 0.509,0.637,4,0,0.0471,0.0717,1.0800000000000003e-05,0.0789,0.378,0.81,1,5oO3drDxtziYU2H1X23ZIp,Love On The Brain,2016-01-28,['Rihanna'],1.0,5,6,4
 0.583,0.8290000000000001,1,1,0.134,0.00864,0.0,0.0426,0.575,0.65,0,2yPoXCs7BSIUrucMdK5PzV,Umbrella,2007-01-01,"['Rihanna', 'JAY-Z']",0.012658227848101266,5,6,5
 0.5820000000000001,0.272,2,1,0.0501,0.875,0.0,0.13,0.354,0.8,0,78TTtXnFQPzwqlbtbwqN0y,FourFiveSeconds,2015-01-24,"['Rihanna', 'Kanye West', 'Paul McCartney']",1.0,6,5,3
@@ -401,7 +399,6 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.8959999999999999,0.586,10,0,0.0559,0.10400000000000001,0.0,0.79,0.642,1.0,1,0nbXyq5TXYPCO7pr3N8S4I,The Box,2019-12-06,['Roddy Ricch'],1.0,3,3,3
 0.831,0.499,11,0,0.114,0.26899999999999996,0.0,0.3,0.511,0.91,1,07KXEDMj78x68D884wgVEm,High Fashion (feat. Mustard),2019-12-06,"['Roddy Ricch', 'Mustard']",1.0,2,2,4
 0.809,0.545,7,1,0.0735,0.392,0.0,0.151,0.244,0.89,1,3QzAOrNlsabgbMwlZt7TAY,Ballin' (with Roddy Ricch),2019-06-28,"['Mustard', 'Roddy Ricch']",1.0,2,3,3
-0.867,0.7440000000000001,9,0,0.228,0.268,0.0,0.0713,0.645,0.88,1,4cSSL3YafYjM3yjgFO1vJg,Walk Em Down (feat. Roddy Ricch),2020-03-19,"['NLE Choppa', 'Roddy Ricch']",1.0,1,4,3
 0.8859999999999999,0.479,4,0,0.33399999999999996,0.077,0.0,0.135,0.408,0.79,1,7A20WnLkjtZU2d7hIB6Ziu,Start Wit Me (feat. Gunna),2019-12-06,"['Roddy Ricch', 'Gunna']",1.0,4,2,3
 0.9259999999999999,0.45399999999999996,6,1,0.0732,0.036000000000000004,0.00042199999999999996,0.0896,0.34,0.79,1,4SWWe2OYC4mqf40Gc2RSdl,Down Below,2018-11-02,['Roddy Ricch'],1.0,3,1,4
 0.757,0.6729999999999999,1,1,0.141,0.095,0.0,0.33799999999999997,0.574,0.79,1,6ztvsy3C6hPjVg9j4x1XKJ,Tip Toe (feat. A Boogie Wit da Hoodie),2019-12-06,"['Roddy Ricch', 'A Boogie Wit da Hoodie']",1.0,1,2,3
@@ -783,7 +780,6 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.429,0.632,9,0,0.04,0.34299999999999997,0.0,0.0643,0.541,0.5,0,08xAV5O9ultbEr4eKiCIZg,Her Aşk Bir Gün Biter,2013-11-29,['Oğuzhan Koç'],1.0,1,6,4
 0.483,0.361,0,1,0.0738,0.8320000000000001,4.66e-06,0.098,0.307,0.87,0,2ZTYlnhhV1UAReg7wIGolx,To Die For,2020-02-14,['Sam Smith'],1.0,6,4,3
 0.477,0.682,1,0,0.0925,0.153,0.0,0.0763,0.345,0.87,0,6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,2019-07-19,['Sam Smith'],1.0,2,6,3
-0.741,0.52,8,1,0.0656,0.45,1.97e-06,0.222,0.34700000000000003,0.86,0,6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),2019-01-11,"['Sam Smith', 'Normani']",1.0,2,4,3
 0.418,0.42,0,1,0.0414,0.588,6.39e-05,0.11,0.184,0.84,0,5Nm9ERjJZ5oyfXZTECKmRt,Stay With Me,2014-01-01,['Sam Smith'],0.9873417721518988,1,5,3
 0.677,0.485,5,1,0.0361,0.529,2.04e-05,0.0766,0.493,0.83,0,7795WJLVKJoAyVoOtCWqXN,I'm Not The Only One,2014-01-01,['Sam Smith'],0.9873417721518988,1,6,4
 0.7809999999999999,0.768,11,1,0.0394,0.0119,4.91e-06,0.325,0.486,0.82,0,5N5k9nd479b1xpDZ4usjrg,Promises (with Sam Smith),2018-08-17,"['Calvin Harris', 'Sam Smith', 'Jessie Reyez']",1.0,3,5,4
@@ -976,7 +972,6 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.8029999999999999,0.589,11,1,0.0954,0.442,1.15e-06,0.634,0.562,0.7,0,5J64qSSq0VZuh0CiI9o9Nq,Tú No Amas,2019-06-19,"['Mambo Kingz', 'DJ Luian', 'Anuel AA', 'KAROL G', 'Arcangel']",1.0,4,4,5
 0.506,0.287,7,1,0.0643,0.861,0.0,0.605,0.57,0.69,0,0QHOIQxRlIPYPJ1HLgIN8S,Dices Que Te Vas,2019-05-03,"['KAROL G', 'Anuel AA']",1.0,5,1,3
 0.735,0.759,2,1,0.193,0.242,1.9600000000000002e-05,0.15,0.598,0.68,0,1pkMzGqBBS10nDiiYrNGGJ,A Ella,2017-10-27,['KAROL G'],1.0,6,4,3
-0.35100000000000003,0.29600000000000004,4,0,0.0333,0.934,0.0,0.095,0.12,0.91,0,0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),2018-04-19,"['Billie Eilish', 'Khalid']",1.0,4,1,3
 0.79,0.6940000000000001,9,0,0.0708,0.145,0.00252,0.281,0.508,0.89,0,0TrPqhAMoaKUFLR7iYDokf,Know Your Worth,2020-02-04,"['Khalid', 'Disclosure']",1.0,3,3,3
 0.632,0.6859999999999999,6,0,0.243,0.5489999999999999,0.0,0.2,0.32899999999999996,0.78,0,7FGq80cy8juXBCD2nrqdWU,Eastside (with Halsey & Khalid),2018-12-07,"['benny blanco', 'Halsey', 'Khalid']",1.0,1,3,3
 0.7979999999999999,0.539,1,1,0.0421,0.19899999999999998,1.66e-05,0.165,0.39399999999999996,0.83,0,5Z3GHaZ6ec9bsiI5BenrbY,Young Dumb & Broke,2017-04-27,['Khalid'],1.0,6,4,3
@@ -1559,6 +1554,7 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.254,0.526,8,0,0.0406,0.8320000000000001,0.0,0.28800000000000003,0.474,0.51,0,7comW6Yb1N4ddSnqlBBbzw,Yağmur,2016-11-09,['Sancak'],1.0,1,5,3
 0.476,0.374,11,0,0.0328,0.89,0.0,0.342,0.324,0.49,0,5XFQkdsO0aIuiYOK9i7sfO,Gün Olur Beni Unutursan (Akustik),2019-03-17,['Sancak'],1.0,1,6,4
 0.436,0.292,11,0,0.0602,0.456,0.0282,0.0946,0.431,0.49,0,48v9fGma7HlT6qnceiPms7,Üşüyorum Aldırma,2015-10-21,['Sancak'],1.0,6,4,3
+0.654,0.63,10,1,0.0259,0.153,0.0,0.111,0.43,0.9,0,2wrJq5XKLnmhRXHIAf9xBa,"10,000 Hours (with Justin Bieber)",2019-10-04,"['Dan + Shay', 'Justin Bieber']",1.0,1,4,3
 0.616,0.43799999999999994,1,1,0.0298,0.35600000000000004,0.0,0.24,0.386,0.79,0,3GJ4hzg4lrGwU51Y3VARbF,Speechless,2018-06-22,['Dan + Shay'],1.0,4,2,4
 0.489,0.581,11,1,0.0281,0.0312,0.0,0.132,0.494,0.77,0,42fw0rxRO2xbesF6mJfd4Y,Tequila,2018-06-22,['Dan + Shay'],1.0,1,2,3
 0.6459999999999999,0.7809999999999999,1,1,0.0313,0.20800000000000002,0.0,0.125,0.565,0.73,0,08tq1XcHwVt5PHXUo87i0D,All To Myself,2018-06-22,['Dan + Shay'],1.0,1,4,3
@@ -1568,14 +1564,15 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.501,0.836,11,0,0.0491,0.20800000000000002,0.0,0.152,0.618,0.67,0,4n0xztUAbHPUV8G3NQvF30,How Not To,2016-06-03,['Dan + Shay'],1.0,5,6,3
 0.562,0.38299999999999995,6,1,0.0337,0.664,0.0,0.259,0.4970000000000001,0.65,0,7nsOsdlqa9Srr1LBYyd9pC,Speechless (feat. Tori Kelly),2019-06-07,"['Dan + Shay', 'Tori Kelly']",1.0,4,1,3
 0.5670000000000001,0.622,4,1,0.0317,0.225,0.0,0.138,0.336,0.65,0,57KKY8gqUqqS3YXYotkxS5,Keeping Score (feat. Kelly Clarkson),2018-06-22,"['Dan + Shay', 'Kelly Clarkson']",1.0,4,5,4
-0.866,0.53,0,0,0.0495,0.517,0.00159,0.0946,0.203,0.73,0,3LnJM1B5Mjgx5LfT9plXUU,LOYAL (feat. Drake),2020-03-26,"['PARTYNEXTDOOR', 'Drake']",1.0,2,6,3
+0.43,0.7,6,1,0.264,0.0902,0.0,0.21600000000000005,0.731,0.89,1,4HDCLYli2SUdkq9OjmvhSD,BELIEVE IT,2020-03-27,"['PARTYNEXTDOOR', 'Rihanna']",1.0,6,6,3
+0.866,0.53,0,0,0.0495,0.517,0.00159,0.0946,0.203,0.74,0,3LnJM1B5Mjgx5LfT9plXUU,LOYAL (feat. Drake),2020-03-26,"['PARTYNEXTDOOR', 'Drake']",1.0,2,6,3
 0.7170000000000001,0.34700000000000003,11,0,0.0636,0.0511,2.43e-06,0.087,0.0589,0.75,1,1wZqJM5FGDEl3FjHDxDyQd,Come and See Me (feat. Drake),2016-08-12,"['PARTYNEXTDOOR', 'Drake']",1.0,1,2,4
-0.877,0.529,0,0,0.0461,0.479,0.00159,0.094,0.422,0.71,1,6WGTfHSQtUcEx5vgpxTLCs,LOYAL (feat. Drake and Bad Bunny) - Remix,2020-03-27,"['PARTYNEXTDOOR', 'Drake', 'Bad Bunny']",1.0,2,6,5
 0.596,0.6779999999999999,9,1,0.0335,0.0199,0.004,0.418,0.259,0.74,1,79MSEdtXuudhGhC5AtG07g,Break from Toronto,2013-07-01,['PARTYNEXTDOOR'],0.9620253164556962,3,6,2
+0.877,0.529,0,0,0.0461,0.479,0.00159,0.094,0.422,0.71,1,6WGTfHSQtUcEx5vgpxTLCs,LOYAL (feat. Drake and Bad Bunny) - Remix,2020-03-27,"['PARTYNEXTDOOR', 'Drake', 'Bad Bunny']",1.0,2,6,5
 0.62,0.45,0,0,0.132,0.332,9.67e-05,0.0975,0.7190000000000001,0.51,0,5TDMkd2z9Ay7yrHSc2nVYt,TRAUMA,2020-03-26,['PARTYNEXTDOOR'],1.0,3,5,3
 0.285,0.329,8,1,0.0446,0.526,0.0205,0.158,0.14800000000000002,0.7,1,2BwTTHpaBZ9DuARYrIccyh,SAVAGE ANTHEM,2020-03-27,['PARTYNEXTDOOR'],1.0,6,0,6
-0.612,0.304,5,0,0.0332,0.754,0.0075200000000000015,0.108,0.308,0.51,0,5iMMEwyqqkvH0bQzLxIhN9,NOTHING LESS,2020-03-26,['PARTYNEXTDOOR'],1.0,3,3,3
 0.789,0.741,0,0,0.133,0.147,0.0179,0.0869,0.8140000000000001,0.49,0,07dGQtDfjQFLMeY8RQsYme,EYE ON IT,2020-03-26,['PARTYNEXTDOOR'],1.0,2,6,4
+0.612,0.304,5,0,0.0332,0.754,0.0075200000000000015,0.108,0.308,0.51,0,5iMMEwyqqkvH0bQzLxIhN9,NOTHING LESS,2020-03-26,['PARTYNEXTDOOR'],1.0,3,3,3
 0.344,0.537,8,0,0.079,0.0727,0.000127,0.225,0.453,0.7,1,2ekdnv2xVIyAdG3ySoDDeY,Wus Good / Curious,2013-07-01,['PARTYNEXTDOOR'],0.9620253164556962,0,4,4
 0.79,0.39399999999999996,0,0,0.0671,0.0626,0.000522,0.111,0.10400000000000001,0.56,1,1lDnr10iH0O5sURL5JlGig,Stick By My Side,2019-10-11,"['Clever', 'NLE Choppa']",0.9873417721518988,4,0,2
 0.539,0.634,4,0,0.44299999999999995,0.203,0.0,0.0889,0.301,0.54,1,3287GJFlcdfd3wAmCmuMCJ,All In (feat. Polo G & G Herbo),2019-07-05,"['Clever', 'Polo G', 'G Herbo']",1.0,5,2,3
@@ -1589,6 +1586,7 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.68,0.591,1,0,0.0697,0.115,0.000182,0.445,0.485,0.38,1,4Lot66eI6IXTdCjAxoj6sX,Hey Eileen,2019-10-11,['Clever'],0.9873417721518988,6,6,3
 0.7040000000000001,0.225,6,0,0.0994,0.902,0.657,0.106,0.243,0.93,0,3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,2019-11-13,['Billie Eilish'],1.0,3,3,4
 0.701,0.425,7,1,0.375,0.328,0.13,0.1,0.562,0.93,0,2Fxmhks0bxGSBdJ92vM42m,bad guy,2019-03-29,['Billie Eilish'],1.0,4,5,3
+0.35100000000000003,0.29600000000000004,4,0,0.0333,0.934,0.0,0.095,0.12,0.91,0,0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),2018-04-19,"['Billie Eilish', 'Khalid']",1.0,3,5,3
 0.38,0.219,4,0,0.0358,0.917,0.0104,0.0827,0.0517,0.9,0,73SpzrcaHk0RQPFP73vqVR,No Time To Die,2020-02-13,['Billie Eilish'],1.0,0,3,4
 0.3670000000000001,0.111,4,1,0.0972,0.978,3.97e-05,0.0897,0.198,0.89,0,43zdsphuZLzwA9k4DJhU0I,when the party's over,2019-03-29,['Billie Eilish'],1.0,1,3,3
 0.475,0.37,4,0,0.0361,0.8190000000000001,0.0577,0.0841,0.157,0.71,0,2uIX8YMNjGMD7441kqyyNU,ocean eyes,2016-11-18,['Billie Eilish'],0.0379746835443038,4,6,3
@@ -1596,6 +1594,7 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.905,0.389,8,1,0.332,0.74,0.162,0.106,0.196,0.85,0,4SSnFejRGlZikf02HLewEF,bury a friend,2019-03-29,['Billie Eilish'],1.0,3,3,3
 0.853,0.35100000000000003,7,1,0.241,0.39,9.38e-06,0.752,0.282,0.84,0,3Fj47GNK2kUF0uaEDgXLaD,wish you were gay,2019-03-29,['Billie Eilish'],1.0,3,5,4
 0.726,0.444,8,0,0.3720000000000001,0.28300000000000003,0.14300000000000002,0.177,0.569,0.84,0,6IRdLKIyS4p7XNiP8r6rsx,all the good girls go to hell,2019-03-29,['Billie Eilish'],1.0,6,6,3
+0.867,0.7440000000000001,9,0,0.228,0.268,0.0,0.0713,0.645,0.89,1,4cSSL3YafYjM3yjgFO1vJg,Walk Em Down (feat. Roddy Ricch),2020-03-19,"['NLE Choppa', 'Roddy Ricch']",1.0,1,3,3
 0.92,0.833,1,1,0.253,0.0277,0.0,0.0596,0.645,0.86,1,74fV8TuLZKVzSIOOGu8wwI,Go Stupid,2020-02-14,"['Polo G', 'Stunna 4 Vegas', 'NLE Choppa', 'Mike WiLL Made-It']",1.0,4,5,3
 0.787,0.713,7,1,0.401,0.0849,0.0,0.7170000000000001,0.762,0.83,1,4sWuPniHClkInYAnzXAYUF,Camelot,2019-09-13,['NLE Choppa'],1.0,6,3,2
 0.894,0.511,2,1,0.42,0.0251,0.0,0.14,0.568,0.73,1,239AbcyCSYFkBmWrGAlBky,Shotta Flow (feat. Blueface) [Remix],2019-12-23,"['NLE Choppa', 'Blueface']",1.0,3,4,3
@@ -1605,12 +1604,13 @@ danceability,energy,key,mode,speechiness,acousticness,instrumentalness,liveness,
 0.617,0.953,2,1,0.0693,0.11900000000000001,0.0,0.331,0.594,0.72,1,1KjQPDJQCUuqDj3AmfSBCa,CAPO,2019-03-22,['NLE Choppa'],1.0,5,4,3
 0.722,0.716,8,0,0.377,0.00818,0.0,0.892,0.799,0.71,1,0OsYwz3SCLD98IvWfdLeRQ,Shotta Flow 3,2019-07-19,['NLE Choppa'],1.0,3,3,3
 0.79,0.88,7,1,0.376,0.324,0.0,0.0829,0.857,0.69,1,05JdgtCKkZ5CoOjM5KS4EG,"Camelot (feat. Yo Gotti, BlocBoy JB & Moneybagg Yo) - Remix",2019-12-06,"['NLE Choppa', 'Yo Gotti', 'BlocBoy JB', 'Moneybagg Yo']",1.0,6,6,3
-0.599,0.887,4,1,0.0984,0.0192,1.21e-06,0.3,0.8809999999999999,0.8,0,0rIAC4PXANcKmitJfoqmVm,Motivation,2019-08-16,['Normani'],1.0,6,6,3
+0.741,0.52,8,1,0.0656,0.45,1.97e-06,0.222,0.347,0.86,0,6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),2019-01-11,"['Sam Smith', 'Normani']",1.0,2,2,3
+0.599,0.887,4,1,0.0984,0.0192,1.21e-06,0.3,0.881,0.8,0,0rIAC4PXANcKmitJfoqmVm,Motivation,2019-08-16,['Normani'],1.0,6,6,3
 0.708,0.648,6,1,0.0449,0.0956,0.0,0.134,0.338,0.78,0,45Egmo7icyopuzJN0oMEdk,Love Lies (with Normani),2018-02-14,"['Khalid', 'Normani']",1.0,5,4,3
 0.785,0.753,1,1,0.0873,0.188,1.01e-06,0.265,0.488,0.7,1,0PQsrLxPbOBBwwmXCnGvcF,Diamonds (with Normani),2020-01-10,"['Megan Thee Stallion', 'Normani']",1.0,1,6,3
 0.727,0.583,7,0,0.0718,0.065,0.0,0.106,0.629,0.69,0,7vJS1DPc3FzBtqBs8n3mW5,Bad To You (with Normani & Nicki Minaj),2019-11-01,"['Ariana Grande', 'Normani', 'Nicki Minaj']",1.0,5,2,3
-0.746,0.557,1,1,0.0542,0.103,0.0036,0.138,0.324,0.68,0,0GfS3y8Jd7SHWd9R51s7Fo,Dancing With A Stranger (With Normani) - Cheat Codes Remix,2019-03-08,"['Sam Smith', 'Normani', 'Cheat Codes']",1.0,3,3,3
+0.746,0.557,1,1,0.0542,0.103,0.0036,0.138,0.324,0.69,0,0GfS3y8Jd7SHWd9R51s7Fo,Dancing With A Stranger (With Normani) - Cheat Codes Remix,2019-03-08,"['Sam Smith', 'Normani', 'Cheat Codes']",1.0,3,3,3
 0.623,0.276,5,0,0.0287,0.89,0.0,0.146,0.308,0.65,0,29f11nLUcMYQ2Ndbnb7N0o,Dancing With A Stranger (With Normani) - Acoustic,2019-02-15,"['Sam Smith', 'Normani']",1.0,2,0,3
 0.578,0.588,0,0,0.255,0.415,0.0,0.114,0.3,0.64,1,2qHk6Nz5glNQrjW8Rhd5kv,Waves (feat. 6LACK),2018-11-15,"['Normani', '6LACK']",1.0,0,5,4
-0.388,0.8370000000000001,6,1,0.107,0.0229,1.53e-06,0.149,0.378,0.54,1,5K7fJJAj8JDm2JfAYyQk9F,Love Lies - Snakehips Remix,2018-02-12,"['Khalid', 'Normani', 'Snakehips']",1.0,5,6,3
-0.853,0.693,0,1,0.0524,0.0855,7.159999999999999e-05,0.11,0.547,0.53,1,43tgC5pTYJpc5D3C9HRwEg,Slow Down (with Calvin Harris),2018-10-22,"['Normani', 'Calvin Harris']",1.0,3,5,3
+0.388,0.837,6,1,0.107,0.0229,1.53e-06,0.149,0.378,0.54,1,5K7fJJAj8JDm2JfAYyQk9F,Love Lies - Snakehips Remix,2018-02-12,"['Khalid', 'Normani', 'Snakehips']",1.0,5,6,3
+0.853,0.693,0,1,0.0524,0.0855,7.16e-05,0.11,0.547,0.53,1,43tgC5pTYJpc5D3C9HRwEg,Slow Down (with Calvin Harris),2018-10-22,"['Normani', 'Calvin Harris']",1.0,3,5,3
