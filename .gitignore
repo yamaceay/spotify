@@ -7,3 +7,4 @@ git_shortcut.txt
 *.sql
 2020_dataset/sqlite.ipynb
 2020_dataset/data
+2020_dataset/*.ipynb
